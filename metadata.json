@@ -1,0 +1,6 @@
+{
+  "name": "বইঘর - অনলাইন বইয়ের দোকান",
+  "description": "একটি আধুনিক বাংলা ই-কমার্স বইয়ের দোকান যেখানে আপনি বিভিন্ন ক্যাটাগরির বই খুঁজতে পারবেন, কার্টে যোগ করতে পারবেন এবং অর্ডার করতে পারবেন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
